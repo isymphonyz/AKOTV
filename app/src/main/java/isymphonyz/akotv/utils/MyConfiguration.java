@@ -5,5 +5,5 @@ package isymphonyz.akotv.utils;
  */
 public class MyConfiguration {
     public static String CHOMPHON_CHANNEL = "http://radio2.thaidhost.com:8888/show/live/playlist.m3u8";
-    public static String YOUTUBE_CHANNEL = "https://www.youtube.com/user/chumphonchannal";
+    public static String YOUTUBE_CHANNEL = "https://www.youtube.com/channel/UCdvttxv-0szrPub0Tl4SpqA/videos";
 }
